@@ -8,11 +8,11 @@ layout: exam
     - A. Amazon EFS.
     - B. Amazon SNS.
     - C. Amazon EBS.
-    - D. Amazon ECS.
+    - D. Amazon ECS.  
     - E. Amazon EMR.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A, C
+      Correct answer: A, C.  ECS: docker images, image repo
     </details>
 
 2. Which AWS service can be used to store and reliably deliver messages across distributed systems?
@@ -22,7 +22,7 @@ layout: exam
     - D. Amazon Simple Storage Service.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
+      Correct answer: A.  Amazon Simple Email Service: send emails only
     </details>
 
 3. Which of the following describes the payment model that AWS makes available for customers that can commit to using Amazon EC2 over a one or 3-year term to reduce their total computing costs?
@@ -42,7 +42,7 @@ layout: exam
     - D. Use a Multi-Region Active-Active architecture.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
+      Correct answer: A (A: DB instance size)
     </details>
 
 5. What is the primary storage service used by Amazon RDS database instances?
@@ -52,7 +52,7 @@ layout: exam
     - D. Amazon S3.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct answer: B.   Refer page 175
     </details>
 
 6. A company is developing a new application using a microservices framework. The new application is having performance and latency issues. Which AWS Service should be used to troubleshoot these issues?
@@ -84,7 +84,7 @@ layout: exam
     - E. Edge Locations.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B, D
+      Correct answer: B, D.  Page 175
     </details>
 
 9. Sarah has deployed an application in the Northern California (us-west-1) region. After examining the application’s traffic, she notices that about 30% of the traffic is coming from Asia. What can she do to reduce latency for the users in Asia?
@@ -207,7 +207,7 @@ layout: exam
     - E. AWS Lambda.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D, E
+      Correct answer: D, E.  Page 400
     </details>
 
 21. A company has business critical workloads hosted on AWS and they are unwilling to accept any downtime. Which of the following is a recommended best practice to protect their workloads in the event of an unexpected natural disaster?
@@ -321,7 +321,7 @@ layout: exam
     - E. Number of private IPs.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A, B
+      Correct answer: A, B.  (Different AZ have different pricing. ELB is paid separately)
     </details>
 
 32. A customer spent a lot of time configuring a newly deployed Amazon EC2 instance. After the workload increases, the customer decides to provision another EC2 instance with an identical configuration. How can the customer achieve this?
