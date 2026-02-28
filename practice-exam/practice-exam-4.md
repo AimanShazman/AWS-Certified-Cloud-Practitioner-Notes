@@ -126,7 +126,7 @@ layout: exam
     - E. Processing data streams at any scale.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A, D
+      Correct answer: A, D. S3 digunakan untuk store cloudfront content at edge
     </details>
 
 13. What is the AWS’ recommendation regarding access keys?
@@ -166,7 +166,7 @@ layout: exam
     - D. Amazon Glacier.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
+      Correct answer: C. EBS has very high I/O
     </details>
 
 17. How can AWS customers track and avoid over-spending on underutilized reserved instances?
@@ -176,7 +176,7 @@ layout: exam
     - D. Customers can use Amazon CloudTrail to automatically check for unused reservations and get recommendations to reduce their bill.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
+      Correct answer: C. Budget can be use to track cost utilization (related to money)
     </details>
 
 18. What is the AWS service that provides five times the performance of a standard MySQL database?
@@ -258,7 +258,7 @@ layout: exam
     - E. Software bugs.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C, D
+      Correct answer: C, D. (Data sovereignty kaitan dengan region. High write-heavy workloads → maybe NoSQL (like DynamoDB).)
     </details>
 
 26. What are the benefits of implementing a tagging strategy for AWS resources? (Choose TWO)
@@ -279,7 +279,7 @@ layout: exam
     - D. Controls that the customer and AWS collaborate together upon to secure the infrastructure.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
+      Correct answer: D. (B is AWS responsibility. Contohnya, security of infrastructure, we use AWS so we inherit it)
     </details>
 
 28. Which design principles relate to performance efficiency in AWS? (Choose TWO)
@@ -290,7 +290,7 @@ layout: exam
     - E. Enable audit logging.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A, D
+      Correct answer: A, D. (performance efficiency = go global, use serverless arch)
     </details>
 
 29. Which of the below are responsibilities of the customer when using Amazon EC2? (Choose TWO)
@@ -373,7 +373,7 @@ layout: exam
     - D. AWS Pricing Calculator.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct answer: B. (Total Cost Ownership compares on-premise cost and projected aws cost. Pricing calculator for calculating aws service cost not compare againts on-premise)
     </details>
 
 37. Which of the following activities supports the Operational Excellence pillar of the AWS Well-Architected Framework?
@@ -416,7 +416,7 @@ layout: exam
     - E. Conversion.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A, C
+      Correct answer: A, C. (Protect against accidential deletion)
     </details>
 
 41. As part of the AWS Migration Acceleration Program (MAP), what does AWS provide to accelerate Enterprise adoption of AWS? (Choose TWO)
@@ -437,7 +437,7 @@ layout: exam
     - D. Releasing unused Elastic IPs after terminating an EC2instance.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct answer: B. (launch config is just a template and doesn't cost anything)
     </details>
 
 43. What is the AWS tool that can help a company visualize their AWS spending in the last few months?
@@ -468,7 +468,7 @@ layout: exam
     - D. Amazon Simple Queue Service (Amazon SQS).
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
+      Correct answer: C. (SES only to send email, not SMS)
     </details>
 
 46. Which of the following allows you to create new RDS instances? (Choose TWO)
