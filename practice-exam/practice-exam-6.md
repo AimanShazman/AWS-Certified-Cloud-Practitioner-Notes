@@ -11,7 +11,7 @@ layout: exam
     - D. An AWS Availability Zone is an isolated location within an AWS Region, however edge locations are located in multiple cities worldwide.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
+      Correct answer: D. (Edge location is not located inside region)
     </details>
 
 2. Which features are included in the AWS Business Support Plan? (Choose TWO)
@@ -53,7 +53,7 @@ layout: exam
     - E. Enables customers to trade their capital expenses for operational expenses.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D, E
+      Correct answer: D, E. (E : CapEx = buy physical servers, OpEx = pay monthly based on usage. C : aws doesn't provide custom hardware build but provides instance types)
     </details>
 
 6. A customer is planning to migrate their Microsoft SQL Server databases to AWS. Which AWS Services can the customer use to run their Microsoft SQL Server database on AWS? (Choose TWO)
@@ -64,7 +64,7 @@ layout: exam
     - E. AWS Lambda.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B, C
+      Correct answer: B, C. (keyword: run database, not migrate)
     </details>
 
 7. Which AWS Service can perform health checks on Amazon EC2 instances?
@@ -258,7 +258,7 @@ layout: exam
     - E. The number of IAM roles provisioned.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A, D
+      Correct answer: A, D. (3 factors that effect cost: compute, storage, data transfer)
     </details>
 
 26. Who from the following will get the largest discount?
@@ -268,7 +268,7 @@ layout: exam
     - D. A user who chooses to buy Reserved, Standard, All upfront instances.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
+      Correct answer: D. (converatble has less discount than normal, can change instance type, instance family (compute type, memory type etc)
     </details>
 
 27. Which of the following is an available option when purchasing Amazon EC2 instances?
@@ -288,7 +288,7 @@ layout: exam
     - D. It means that you have the ability to pay as you go.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
+      Correct answer: C. (hafal la huhu)
     </details>
 
 29. A company experiences fluctuations in traffic patterns to their e-commerce website when running flash sales. What service can help the company dynamically match the required compute capacity to handle spikes in traffic during flash sales?
@@ -308,7 +308,7 @@ layout: exam
     - D. Amazon VPC helps customers to review their AWS architecture and adopt best practices.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct answer: B. (customer has full control (route, CIDR range, network etc))
     </details>
 
 31. Which tool can a non-AWS customer use to compare the cost of on-premises environment resources to AWS?
@@ -422,7 +422,7 @@ layout: exam
     - E. Management of firewall rules.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A, C
+      Correct answer: A, C. (customer manage network traffic such as Access, network config, data protection (can be toggle on KMS))
     </details>
 
 42. Which of the following strategies help analyze costs in AWS?
@@ -513,6 +513,6 @@ layout: exam
     - D. Amazon ElastiCache for Redis.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
+      Correct answer: D. (Amazon ElastiCache for Redis → in-memory caching, supports extremely low latency)
     </details>
 
