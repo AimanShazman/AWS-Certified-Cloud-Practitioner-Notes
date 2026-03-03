@@ -159,7 +159,7 @@ layout: exam
     - E. Geographic proximity to the company's location.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B, C
+      Correct answer: B, C. (E is wrong because end user location is way important)
     </details>
 
 16. You are running a financial services web application on AWS. The application uses a MySQL database to store the data. Which of the following AWS services would improve the performance of your application by allowing you to retrieve information from fast in-memory caches?
@@ -231,7 +231,7 @@ layout: exam
     - E. Number of instances.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B, D
+      Correct answer: B, D. (Number of hosted zone is part of route 53. if you host in multiple subnet in the same AZ, the price doesnt go up)
     </details>
 
 23. Which AWS Service helps enterprises extend their on-premises storage to AWS in a cost-effective manner?
@@ -281,7 +281,7 @@ layout: exam
     - D. Amazon Cloud Directory allows for registration and management of domain names.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
+      Correct answer: A. (“hierarchies” or “multiple dimensions of data”, think Amazon Cloud Directory.)
     </details>
 
 28. A user has opened a "Production System Down" support case to get help from AWS Support after a production system disruption. What is the expected response time for this type of support case?
@@ -291,7 +291,7 @@ layout: exam
     - D. One hour.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
+      Correct answer: D. (15mins is for business-critical system down)
     </details>
 
 29. Which of the below options is a best practice for making your application on AWS highly available?
@@ -353,7 +353,7 @@ layout: exam
     - D. AWS CloudFormation.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct answer: B. (Not in scope: you can use chef recipe to automate the config of EC2)
     </details>
 
 35. A customer is seeking to store objects in their AWS environment and to make those objects downloadable over the internet. Which AWS Service can be used to accomplish this?
@@ -373,7 +373,7 @@ layout: exam
     - D. AWS CloudTrail.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct answer: B. (cloudwatch can monitor simple HTTP request)
     </details>
 
 37. A company is migrating a web application to AWS. The application’s compute capacity is continually utilized throughout the year. Which of the below options offers the company the most cost-effective solution?
@@ -383,7 +383,7 @@ layout: exam
     - D. Reserved Instances.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
+      Correct answer: D. (Key word: continually utilized. so cannot be spot instances because it can be interrupted anytime)
     </details>
 
 38. A company wants to grant a new employee long-term access to manage Amazon DynamoDB databases. Which of the following is a recommended best-practice when granting these permissions?
@@ -393,7 +393,7 @@ layout: exam
     - D. Create an IAM user and attach a policy with Administrator access permissions.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
+      Correct answer: C. (roles is not used for long-term permission. roles does not have username and password and we only assume.)
     </details>
 
 39. When granting permissions to applications running on Amazon EC2 instances, which of the following is considered best practice?
@@ -413,7 +413,7 @@ layout: exam
     - D. Use AWS Outposts to run all workloads in a cost-optimized environment.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct answer: B. (Bring your own license, such as existing Windows and Linux cert. This can cut cost. Outpost is hybrid so lagi mahal dari aws region)
     </details>
 
 41. An organization has a legacy application designed using monolithic-based architecture. Which AWS Service can be used to decouple the components of the application?
@@ -465,7 +465,7 @@ layout: exam
     - E. Change your AWS root account password and the passwords of any IAM users.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D, E
+      Correct answer: D, E. (A salah sebab boleh ganggu kerja kita. E, any IAM users = account that has been compromised)
     </details>
 
 46. A key practice when designing solutions on AWS is to minimize dependencies between components so that the failure of a single component does not impact other components. What is this practice called?
@@ -506,7 +506,7 @@ layout: exam
     - E. Lambda can support any programming language using an API.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B, E
+      Correct answer: B, E. (Lambda allows any language using the Lambda Runtime API.)
     </details>
 
 50. What are the capabilities of AWS X-Ray? (Choose TWO)
@@ -517,6 +517,6 @@ layout: exam
     - E. Deploys applications to on-premises servers.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B, C
+      Correct answer: B, C. (when request are slow, we can use x-ray to check)
     </details>
 
