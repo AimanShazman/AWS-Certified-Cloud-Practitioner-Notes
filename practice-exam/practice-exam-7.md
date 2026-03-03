@@ -146,7 +146,7 @@ layout: exam
     - D. Resource Controls.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct answer: B. (reviewing how your applications and resources are designed and deployed to improve efficiency and reduce cost.)
     </details>
 
 15. An organization needs to build a financial application that requires support for ACID transactions. Which AWS database service is most appropriate in this case?
@@ -177,7 +177,7 @@ layout: exam
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
-    </details>
+    </details>. (keyword: scalability, save money. C has both. D only save money)
 
 18. Amazon RDS supports multiple database engines to choose from. Which of the following is not one of them?
     - A. PostgreSQL.
@@ -310,7 +310,7 @@ layout: exam
     - E. Storage Class.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A, B
+      Correct answer: A, B. (pay for request made & traffic distribution (data transfer out))
     </details>
 
 31. Which of the following resources can an AWS customer use to learn more about prohibited uses of the services offered by AWS?
