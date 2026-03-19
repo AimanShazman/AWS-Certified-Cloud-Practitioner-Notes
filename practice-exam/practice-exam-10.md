@@ -2,7 +2,9 @@
 layout: exam
 ---
 
-# Practice Exam 10
+# Practice Exam 10 46 / 50 → 92%
+
+Revise: 3, 9, 10, 47
 
 1. Which of the following can an AWS customer use to launch a new Amazon Relational Database Service (Amazon RDS) cluster? (Select TWO)
     - A. AWS Concierge.
@@ -33,7 +35,7 @@ layout: exam
     - E. Adjustable retention.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D, E
+      Correct answer: D, E. (kena bayar data ingestion, storage, and retrieval)
     </details>
 
 4. Which of the following is an AWS-managed compute service?
@@ -94,7 +96,7 @@ layout: exam
     - E. Variable cost.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B, E
+      Correct answer: B, E. (default pricing model are payg, variable cost and elastic & flexible)
     </details>
 
 10. Under the shared responsibility model, which of the following tasks are the responsibility of the AWS customer? (Select TWO)
@@ -105,7 +107,7 @@ layout: exam
     - E. Ensuring that hardware is disposed of properly.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A, C
+      Correct answer: A, C. (NTP: network time protocol, digunakan untuk sync time accross all comp, kerja aws)
     </details>
 
 11. A customer is using multiple AWS accounts with separate billing. How can the customer take advantage of volume discounts with minimal impact to the AWS resources?
@@ -482,7 +484,7 @@ layout: exam
     - D. AWS Service Catalog.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
+      Correct answer: C (Consulting Partners they build & design for you. Technology Partners build solutions and sell it on marketplace)
     </details>
 
 48. Which service stores objects, provides real-time access to those objects, and offers versioning and lifecycle capabilities?
