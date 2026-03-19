@@ -72,7 +72,7 @@ layout: exam
     - D. AWS is responsible for the security of your application.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct answer: B. (AWS provide the tools for encryption like KMS, but you need to enable it youself)
     </details>
 
 8. Amazon EC2 instances are conceptually very similar to traditional servers. However, using Amazon EC2 server instances in the same manner as traditional hardware server instances is only a starting point. What are the main benefits of using the AWS EC2 instances instead of traditional servers? (Choose TWO)
