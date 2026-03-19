@@ -76,7 +76,7 @@ layout: exam
     - E. Running penetration tests.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A, C
+      Correct answer: A, C. (quetion tanye AWS responsibility)
     </details>
 
 8. A company wants to expand from one AWS Region into a second AWS Region. What does the company need to do to start supporting the new Region?
@@ -126,7 +126,7 @@ layout: exam
     - D. AWS Account Managers.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
+      Correct answer: C. (AWS Professional Services team provides paid consulting engagements)
     </details>
 
 13. A company needs 24/7 phone email and chat access with a response time of less than 1 hour if a production system has a service interruption Which AWS Support plan meets these requirements at the LOWEST cost?
