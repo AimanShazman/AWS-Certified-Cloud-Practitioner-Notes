@@ -2,7 +2,9 @@
 layout: exam
 ---
 
-# Practice Exam 9
+# Practice Exam 9 (43/50) 86%
+
+Revise: 2, 20, 26, 27, 28, 41, 42
 
 1. An administrator needs to rapidly deploy a popular IT solution and start using it immediately. Where can the administrator find assistance?
     - A. AWS Well-Architected Framework documentation.
@@ -21,7 +23,7 @@ layout: exam
     - D. It enables users to dynamically adjust CPU and RAM resources.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
+      Correct answer: A. (C: RDS only scale for storage not load(compute))
     </details>
 
 3. Which of the following AWS Cloud services can be used to run a customer-managed relational database?
@@ -204,7 +206,7 @@ layout: exam
     - E. Storage Capacity.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A, D
+      Correct answer: A, D. (hafal je)
     </details>
 
 21. What is Amazon CloudWatch?
@@ -265,7 +267,7 @@ layout: exam
     - D. AWS Cost Explorer.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct answer: B. (consolidated biling for better discount when having high usage tiers)
     </details>
 
 27. Which AWS services provide a way to extend an on-premises architecture to the aws cloud? (Select TWO)
@@ -276,7 +278,7 @@ layout: exam
     - E. AWS Direct Connect.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C, E
+      Correct answer: C, E. (Aws Connect is for call center)
     </details>
 
 28. Which of the following services will automatically scale with an expected increase in web traffic?
@@ -286,7 +288,7 @@ layout: exam
     - D. AWS Direct Connect.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct answer: B. (elb and asg will scale automatically. you must add more cables in direct connect)
     </details>
 
 29. Which service provides a virtually unlimited amount of online highly durable object storage?
@@ -420,7 +422,7 @@ layout: exam
     - D. Software development.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
+      Correct answer: C. (TCO focuses on infrastructure like hardware, cooling etc)
     </details>
 
 42. What is the benefit of using AWS managed services, such as Amazon ElastiCache and Amazon Relational Database Service (Amazon RDS)?
@@ -430,7 +432,7 @@ layout: exam
     - D. They do not require the customer to optimize instance type or size selections.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct Answer: C
+      Correct Answer: C. (explanation di bawah ye)
 
       Explanation:
       - AWS Managed Services takes care of all of your patching and backup activities to help keep your resources current and secure. When updates or patches are released by OS vendors, AWS Managed Services applies them in a timely and consistent manner to minimize the impact on your business
