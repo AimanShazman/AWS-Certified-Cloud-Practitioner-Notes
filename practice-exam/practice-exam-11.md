@@ -2,7 +2,7 @@
 layout: exam
 ---
 
-# Practice Exam 11 45 / 50 → 90%
+# Practice Exam 11 - (45 / 50) 90%
 
 Revise: 7, 13, 21, 37, 47
 
