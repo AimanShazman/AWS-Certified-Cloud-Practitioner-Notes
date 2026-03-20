@@ -2,7 +2,9 @@
 layout: exam
 ---
 
-# Practice Exam 11
+# Practice Exam 11 45 / 50 → 90%
+
+Revise: 7, 13, 21, 37, 47
 
 1. How can a company reduce its Total Cost of Ownership (TCO) using AWS?
     - A. By minimizing large capital expenditures.
@@ -136,7 +138,7 @@ layout: exam
     - D. Enterprise.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
+      Correct answer: C. (Business is <1 hour. I thought 1 hour)
     </details>
 
 14. If a customer needs to audit the change management of AWS resources, which of the following AWS services should the customer use?
@@ -218,7 +220,7 @@ layout: exam
     - D. Awareness.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
+      Correct answer: D. (customer is resoonsible for configuring EC2)
     </details>
 
 22. Which type of AWS storage is ephemeral and is deleted when an instance is stopped Of terminated?
@@ -482,7 +484,7 @@ layout: exam
     - D. AWS Infrastructure Event Management.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
+      Correct answer: A. (service health dashboard shows global AWS service status, not account-specific alerts)
     </details>
 
 48. Which disaster recovery scenario offers the lowest probability of down time?
