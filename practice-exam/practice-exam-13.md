@@ -2,7 +2,9 @@
 layout: exam
 ---
 
-# Practice Exam 13
+# Practice Exam 13 - (45/50 = 90%)
+
+revise: 12, 16, 24, 32, 38
 
 1. The use of what AWS feature or service allows companies to track and categorize spending on a detailed level?
     - A. Cost allocation tags
@@ -13,8 +15,6 @@ layout: exam
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: A
-
-    Explanation: <https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/cost-alloc-tags.html>
 
     </details>
 
@@ -28,8 +28,6 @@ layout: exam
 
     Correct Answer: C
 
-    Explanation: <https://aws.amazon.com/s3/faqs/>
-
     </details>
 
 1. What AWS team assists customers with accelerating cloud adoption through paid engagements in any of several specialty practice area ?
@@ -41,8 +39,6 @@ layout: exam
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: C
-
-    Explanation: <https://aws.amazon.com/professional-services/>
 
     </details>
 
@@ -81,8 +77,6 @@ layout: exam
 
     Correct Answer: AB
 
-    Explanation: <https://aws.amazon.com/sql/>
-
     </details>
 
 1. Which of the following inspects AWS environments to find opportunities that can save money for users and also improve system performance ?
@@ -106,8 +100,6 @@ layout: exam
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: C
-
-    Explanation: <https://aws.amazon.com/ec2/pricing/>
 
     </details>
 
@@ -326,7 +318,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: C
+    Correct Answer: C. (Elastic computing = lowers costs → TCO reduction. Shared responsibility = reduces operational work → efficiency, not direct cost savings)
 
     </details>
 
@@ -433,7 +425,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: A
+    Correct Answer: A. (RDS auto scale for storage not loads, which is compute)
 
     Explanation:
     - In the main RDS page though, Lower administrative burden is listed as part of the benefits.
@@ -515,7 +507,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: A
+    Correct Answer: A. (EBS stores snapshot in S3 anyways, so more expensive!)
 
     </details>
 
@@ -610,9 +602,6 @@ layout: exam
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: B
-
-    Explanation:
-    - Global Reach will support an international company using Cloud-Front.
 
     </details>
 
