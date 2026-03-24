@@ -2,7 +2,9 @@
 layout: exam
 ---
 
-# Practice Exam 12
+# Practice Exam 12 - (39/42) 93%
+
+Revise: 17, 38, 40
 
 1. Which of the following components of the AWS Global Infrastructure consists of one or more discrete data centers interconnected through low latency links?
     - A. Availability Zone
@@ -175,7 +177,7 @@ layout: exam
     - D. Convertible Reserved Instances.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
+      Correct answer: C. ((Convertible RIs): Fixed pricing with flexibility to change instance types, not demand-based)
     </details>
 
 18. A company wants to migrate its applications to a VPC on AWS These applications will need to access on-premises resources. What combination of actions will enable the company to accomplish this goals? (Select TWO)
@@ -392,7 +394,7 @@ layout: exam
     - E. AWS X-Ray.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B, C
+      Correct answer: B, C. (OpsWork - deploy applications to EC2 and on-premises servers. CodeDeploy - deployment to EC2, on-premises servers, or Lambda. Batch - Managed batch processing service, not for deployment. Beanstalk - Deploys only to AWS-managed environments, not on-premises. xray - tracing and monitoring, not deployment)
     </details>
 
 39. What is an example of agility in the AWS Cloud?
@@ -412,7 +414,7 @@ layout: exam
     - D. AWS Shield.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
+      Correct answer: D. (WAF - Protects web applications from common web exploits, but not all DDoS attacks by itself)
     </details>
 
 41. Which of the following are advantages of AWS consolidated billing? (Choose two)
