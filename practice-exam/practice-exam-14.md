@@ -2,7 +2,9 @@
 layout: exam
 ---
 
-# Practice Exam 14
+# Practice Exam 14 - (49/50) 98%
+
+revise: 19
 
 1. Which storage service can be used as a low-cost option for hosting static websites?
     - A. Amazon Glacier
@@ -285,7 +287,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: B
+    Correct Answer: B. (I dont get it???)
 
     Explanation:
     - AWS Compliance enables customers to establish and operate in an AWS security control environment The shared responsibility model is part of AWS Compliance
