@@ -2,7 +2,9 @@
 layout: exam
 ---
 
-# Practice Exam 15
+# Practice Exam 15 - (47/50) 94%
+
+revise: 30, 40, 45
 
 1. How do customers benefit from Amazon's massive economies of scale?
     - A. Periodic price reductions as the result of Amazon's operational efficiencies
@@ -507,7 +509,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AD
+    Correct Answer: AD. (PerF CoS SecOp = performance, fault tolerance, cost optimization, service limits, security, operational excellence))
 
     Explanation:
 
@@ -517,7 +519,8 @@ layout: exam
 
     </details>
 
-31. Which of the following services falls under the responsibility of the customer to maintain operating system configuration, security patching, and networking?    - A. Amazon RDS
+31. Which of the following services falls under the responsibility of the customer to maintain operating system configuration, security patching, and networking?    
+    - A. Amazon RDS
     - B. Amazon EC2
     - C. Amazon ElastiCache
     - D. AWS Fargate
@@ -689,7 +692,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AB
+    Correct Answer: AB. (A: AWS provides compliance controls and services aligned with frameworks (e.g., ISO, SOC, PCI). B: AWS provides and maintains compliance reports and documentation via Artifact)
 
     Explanation: <https://d0.awsstatic.com/whitepapers/compliance/AWS_Risk_and_Compliance_Whitepaper.pdf>
 
@@ -724,7 +727,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: D
+    Correct Answer: A
 
     Explanation: <https://aws.amazon.com/compliance/shared-responsibility-model/>
 
@@ -775,7 +778,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AB
+    Correct Answer: AB. (C distributes traffic, does not count as elasticity)
 
     Explanation: <https://wa.aws.amazon.com/wat.concept.elasticity.en.html>
 
