@@ -2,7 +2,9 @@
 layout: exam
 ---
 
-# Practice Exam 16
+# Practice Exam 16 - (46/50) 92%
+
+revise: 33, 37, 47, 50
 
 1. What will help a company perform a cost benefit analysis of migrating to the AWS Cloud?
     - A. Cost Explorer
@@ -102,7 +104,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: B
+    Correct Answer: D
 
     Explanation:
     - AWS assets are centrally managed through an inventory management system that stores and tracks owner, location, status, maintenance, and descriptive information for AWS-owned assets.
@@ -574,7 +576,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: D
+    Correct Answer: D. (Auto-scalling for RDS is not automatic by default. You must enable it)
 
     Explanation:
     - Amazon Aurora is a relational database service that combines the speed and availability of high-end commercial databases with the simplicity and cost-effectiveness of open source databases.
@@ -648,7 +650,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: D
+    Correct Answer: D. (snowball sampai petabyte je. snowmobile exabyte. exabyte > petabyte)
 
     Explanation:
     - AWS Snowmobile is an exabyte-scale data transfer service that can move extremely large amounts of data to AWS in a fast, secure, and cost-effective manner.
@@ -829,7 +831,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: D
+    Correct Answer: D. ("go to market quickly" and easy changes to architecture = agility)
 
     Explanation:
     - Agile is a time boxed, iterative approach to software delivery that builds software incrementally from the start of the project, instead of trying to deliver it all at once near the end.
@@ -877,7 +879,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: ACD
+    Correct Answer: ACD. (You pay only for what you use → compute, storage, data transfer)
 
     Explanation:
     <https://aws.amazon.com/blogs/aws/the-new-aws-tco-calculator/>
