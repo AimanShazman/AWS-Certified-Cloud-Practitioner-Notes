@@ -215,7 +215,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AB
+    Correct Answer: AB. (D: Aws test at scale not moderate. B: availability and reliability)
 
     Explanation: <https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/>
 
