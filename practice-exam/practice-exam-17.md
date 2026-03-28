@@ -2,7 +2,9 @@
 layout: exam
 ---
 
-# Practice Exam 17
+# Practice Exam 17 - (48/50) 96%
+
+revise: 13, 39
 
 1. What time-savings advantage is offered with the use of Amazon Rekognition?
     - A. Amazon Rekognition provides automatic watermarking of images.
@@ -462,7 +464,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: A
+    Correct Answer: B
 
     Explanation:
     - Amazon Virtual Private Cloud (Amazon VPC) is a logically isolated, private section of the AWS Cloud to launch resources in a virtual data center in the cloud.
@@ -636,7 +638,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AC
+    Correct Answer: AC. (A: pay-as-you-go pricing model. D is wrong because it says 'free'. It is unlimited but not free)
 
     </details>
 
