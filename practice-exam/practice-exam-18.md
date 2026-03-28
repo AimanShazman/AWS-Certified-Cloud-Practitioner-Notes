@@ -2,7 +2,9 @@
 layout: exam
 ---
 
-# Practice Exam 18
+# Practice Exam 18 - (46/50) 92%
+
+revise: 8, 13, 18, 44
 
 1. Under the AWS shared responsibility model, which of the following is an example of security in the AWS Cloud?
     - A. Managing edge locations
@@ -673,7 +675,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: C
+    Correct Answer: C. (Organization can automatically create account too)
 
     Explanation: <https://aws.amazon.com/blogs/mt/automate-account-creation-and-resource-provisioning-using-aws-service-catalog-aws-organizations-and-aws-lambda/>
 
