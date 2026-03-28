@@ -112,7 +112,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: D
+    Correct Answer: D. (Jangan tertukar GuardDuty with AWS Shield)
 
     Explanation:
     - AWS WAF is a web application firewall that helps protect web applications from common web exploits that could affect application availability, compromise security, or consume excessive resources.
@@ -199,7 +199,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: A
+    Correct Answer: A. (Glacier is storage not database)
 
     Explanation: <https://www.sisense.com/glossary/redshift-database/>
 
@@ -274,7 +274,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: B
+    Correct Answer: B. (service catalog = create your own catalog or launch a set of authorized products pre-defined by admins. Marketplace = third-party software and security solutions)
 
     Explanation:
     - AWS Service Catalog Delivery Partners are APN Consulting Partners who help create catalogs of IT services that are approved by the customer's organization for use on AWS.
@@ -312,7 +312,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: CD
+    Correct Answer: CD. (why C? user can also control infrastructure on-premise)
 
     </details>
 
