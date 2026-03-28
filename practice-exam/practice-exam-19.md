@@ -247,7 +247,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: C
+    Correct Answer: C. (jawapan patutnya TCO)
 
     Explanation: <https://aws.amazon.com/tco-calculator/>
 
