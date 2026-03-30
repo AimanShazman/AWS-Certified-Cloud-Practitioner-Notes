@@ -2,7 +2,9 @@
 layout: exam
 ---
 
-# Practice Exam 20
+# Practice Exam 20 - (44/50) 88%
+
+revise: 9, 10, 22, 35, 41, 50
 
 1. Which AWS service helps identify malicious or unauthorized activities in AWS accounts and workloads?
     - A. Amazon Rekognition
@@ -483,7 +485,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: B
+    Correct Answer: A
 
     Explanation: <https://aws.amazon.com/compliance/shared-responsibility-model/>
 
@@ -498,7 +500,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AB
+    Correct Answer: AB. (DynamoDB can use auto scaling for read/write)
 
     Explanation: <https://aws.amazon.com/autoscaling/faqs/>
 
@@ -587,7 +589,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BC
+    Correct Answer: BC. (B: using cost explorer. C: using AWS Budget. D: No automatic switching between pricing models)
 
     </details>
 
@@ -720,7 +722,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: A
+    Correct Answer: A.(audit, compliance, or traceability, think Security. OE: Monitoring and improving processes)
 
     Explanation: <https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf>
 
