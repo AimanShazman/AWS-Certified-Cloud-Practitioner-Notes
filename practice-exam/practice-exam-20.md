@@ -126,7 +126,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: C
+    Correct Answer: C. (cloudfront is CDN, It is not designed for regional failover routing)
 
     Explanation:
     - AWS Global Accelerator uses the AWS global network to optimize the path from your users to your applications, improving the performance of your traffic by as much as 60%.
@@ -145,7 +145,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: Ac
+    Correct Answer: Ac. (Change management = track + audit changes)
 
     </details>
 
@@ -314,7 +314,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: A
+    Correct Answer: A. (Config tracks resource configuration, not performance)
 
     Explanation: <https://aws.amazon.com/ec2/faqs/>
 
