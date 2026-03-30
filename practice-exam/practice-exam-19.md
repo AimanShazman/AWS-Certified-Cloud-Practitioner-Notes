@@ -2,7 +2,9 @@
 layout: exam
 ---
 
-# Practice Exam 19
+# Practice Exam 19 - (49/50) 98%
+
+revise: 18
 
 1. Which AWS offering enables customers to find, buy, and immediately start using software solutions in their AWS environment?
     - A. AWS Config
