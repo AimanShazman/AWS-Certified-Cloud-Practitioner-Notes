@@ -2,7 +2,9 @@
 layout: exam
 ---
 
-# Practice Exam 21
+# Practice Exam 21 - (43/50) 86%
+
+revise: 9, 11, 14, 17, 28, 29, 50
 
 1. A user needs to quickly deploy a non-relational database on AWS. The user does not want to manage the underlying hardware or the database software. <br/> Which AWS service can be used to accomplish this?
     - A. Amazon RDS
@@ -127,7 +129,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: C
+    Correct Answer: C. (hafal je business )
 
     Explanation: <https://aws.amazon.com/premiumsupport/plans/>
 
@@ -155,7 +157,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: C
+    Correct Answer: C. (If multi-region is not mentioned → don’t choose two AWS Region❌)
 
     Explanation: <https://jayendrapatil.com/aws-high-availability-fault-tolerance-architecture-certification/>
 
@@ -195,7 +197,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: B
+    Correct Answer: B. (relevant and timely information = things that effect your account = personal health dashboard)
 
     Explanation: <https://aws.amazon.com/premiumsupport/technology/personal-health-dashboard/>
 
@@ -237,7 +239,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: D
+    Correct Answer: D. (Acts as a central hub for networking)
 
     Explanation: <https://d1.awsstatic.com/whitepapers/building-a-scalable-and-secure-multi-vpc-aws-network-infrastructure.pdf>
 
@@ -392,7 +394,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AD
+    Correct Answer: AD. (CloudFormation define and provision infrastructure using templates. It does NOT provide compute itself)
 
     Explanation: <https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html>
 
@@ -406,7 +408,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: C
+    Correct Answer: C. (AWS Organizations can manage multiple account but does not separate. The best way is to create a separate AWS acc)
 
     </details>
 
@@ -687,7 +689,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: D
+    Correct Answer: D. (Fault tolerance = “I can fail but still run”. Recovery = “I failed, now I restore”. Redundancy = extra copies or backups of something)
 
     </details>
 
