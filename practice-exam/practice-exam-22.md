@@ -268,7 +268,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: C
+    Correct Answer: C. (Removing the account is not a requirement, it’s just the process. Stanalone account = Valid payment method, Valid payment method, etc)
 
     </details>
 
@@ -280,7 +280,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: D
+    Correct Answer: D. (“ability to scale” → Scalability ✅. “automatic / dynamic scaling” → Elasticity)
 
     </details>
 
