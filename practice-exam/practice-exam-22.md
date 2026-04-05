@@ -2,7 +2,9 @@
 layout: exam
 ---
 
-# Practice Exam 22
+# Practice Exam 22 - (46/50) 92%
+
+revise: 22, 23, 28, 48
 
 1. A company operating in the AWS Cloud requires separate invoices for specific environments, such as development, testing, and production. <br/> How can this be achieved?
     - A. Use multiple AWS accounts
@@ -304,7 +306,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BD
+    Correct Answer: B
 
     Explanation: <https://aws.amazon.com/blogs/startups/large-scale-disaster-recovery-using-aws-regions/>
 
@@ -349,7 +351,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AB
+    Correct Answer: AB. (C is TAM)
 
     </details>
 
@@ -624,7 +626,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AE
+    Correct Answer: AE. (C: Violates least privilege, Too much permission = security risk)
 
     </details>
 
