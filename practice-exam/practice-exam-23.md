@@ -2,7 +2,9 @@
 layout: exam
 ---
 
-# Practice Exam 23
+# Practice Exam 23 - (46/50) 92%
+
+revise: 10, 28, 32, 46
 
 1. A user is planning to migrate an application workload to the AWS Cloud. <br/> Which control becomes the responsibility of AWS once the migration is complete?
     - A. Patching the guest operating system
@@ -135,7 +137,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: D
+    Correct Answer: D. (AWS responsibility: Provides PCI-compliant infrastructure and services. Customer responsibility: Applies PCI controls at the application layer)
 
     Explanation: <https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-pci-controls.html>
 
@@ -388,7 +390,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: C
+    Correct Answer: C. (1. You connect to an AWS Direct Connect location (usually in a colocation facility). 2. You connect to an AWS Direct Connect location (usually in a colocation facility))
 
     Explanation: <https://aws.amazon.com/directconnect/partners/>
 
@@ -445,7 +447,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: B
+    Correct Answer: B. (The question asks about fault tolerance and business continuity, not “disaster recovery from a full regional failure.”)
 
     Explanation: <https://d36cz9buwru1tt.cloudfront.net/AWS_Building_Fault_Tolerant_Applications.pdf>
 
@@ -644,7 +646,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: D
+    Correct Answer: D. (If a policy is attached to a group, every member of the group gets all permissions in that policy, even if some users don’t need all of them. That can violate least privilege. it is best practice to attach roles to groups but this question is about least priviledge)
 
     Explanation: <https://kirkpatrickprice.com/blog/best-practices-for-privilege-management-in-aws/>
 
@@ -672,7 +674,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: C
+    Correct Answer: C. (sila hafal nama ye)
 
     Explanation: <https://d1.awsstatic.com/whitepapers/building-a-scalable-and-secure-multi-vpc-aws-network-infrastructure.pdf>
 
